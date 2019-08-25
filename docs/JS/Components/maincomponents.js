@@ -51,7 +51,7 @@ maincomponents.homepage = `
             <div class="cover-image">
                 <figure>
                     <div class="image">
-                        <img src="../imgs/collections.jpg" id="imgCollections">
+                        <img src="../docs/imgs/collections.jpg" id="imgCollections">
                     </div>
                     
                 </figure>
@@ -64,7 +64,7 @@ maincomponents.homepage = `
             <div class="cover-image">
                 <figure>
                     <div class="image">
-                        <img src="../imgs/men.png" class="cover-image" id="imgMen">
+                        <img src="../docs/imgs/men.png" class="cover-image" id="imgMen">
                     </div>
                 </figure>
             </div>
@@ -76,7 +76,7 @@ maincomponents.homepage = `
             <div class="cover-image">
                 <figure>
                     <div class="image">
-                        <img src="../imgs/men.png" class="cover-image" id="imgWomen">
+                        <img src="../docs/imgs/men.png" class="cover-image" id="imgWomen">
                     </div>
                 </figure>
             </div>
@@ -88,7 +88,7 @@ maincomponents.homepage = `
             <div class="cover-image">
                 <figure>
                     <div class="image">
-                        <img src="../imgs/men.png" class="cover-image" id="imgKids">
+                        <img src="../docs/imgs/men.png" class="cover-image" id="imgKids">
                     </div>
                 </figure>
             </div>

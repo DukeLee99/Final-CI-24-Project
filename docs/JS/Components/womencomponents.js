@@ -9,7 +9,7 @@ womencomponents.womenpage =`
             <div class="cover-image">
                 <figure>
                     <div class="image">
-                        <img src="../imgs/collections.jpg" id="jeans">
+                        <img src="../docs/imgs/collections.jpg" id="jeans">
                     </div> 
                 </figure>
             </div>
@@ -21,7 +21,7 @@ womencomponents.womenpage =`
             <div class="cover-image">
                 <figure>
                     <div class="image">
-                        <img src="../imgs/men.png" class="cover-image" id="tops">
+                        <img src="../docs/imgs/men.png" class="cover-image" id="tops">
                     </div>
                 </figure>
             </div>
@@ -33,7 +33,7 @@ womencomponents.womenpage =`
             <div class="cover-image">
                 <figure>
                     <div class="image">
-                        <img src="../imgs/men.png" class="cover-image" id="jacket">
+                        <img src="../docs/imgs/men.png" class="cover-image" id="jacket">
                     </div>
                 </figure>
             </div>
@@ -45,7 +45,7 @@ womencomponents.womenpage =`
             <div class="cover-image">
                 <figure>
                     <div class="image">
-                        <img src="../imgs/men.png" class="cover-image" id="shoes">
+                        <img src="../docs/imgs/men.png" class="cover-image" id="shoes">
                     </div>
                 </figure>
             </div>

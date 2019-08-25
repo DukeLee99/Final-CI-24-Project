@@ -5,7 +5,7 @@ collectionsinterface.collectionpageHandler = function(){
     let tops1 = document.getElementById('topsField')
     tops1.onclick = topsHandler;
     function topsHandler(){
-         view.showComponents(paths.collectiontopspage);
+         view.showComponents(paths.collectionstopspage);
         // view.showfield('Men');
         // view.showComponents('topspage')
     }
@@ -14,7 +14,7 @@ collectionsinterface.collectionpageHandler = function(){
     let jeans1 = document.getElementById('jeansField')
     jeans1.onclick = jeansHandler;
     function jeansHandler(){
-         view.showComponents(paths.collectionjeanspage);
+         view.showComponents(paths.collectionsjeanspage);
         // view.showfield('Men');
         // view.showComponents('topspage')
     }
@@ -23,7 +23,7 @@ collectionsinterface.collectionpageHandler = function(){
     let jacket1 = document.getElementById('jacketField')
     jacket1.onclick = jacketHandler;
     function jacketHandler(){
-         view.showComponents(paths.collectionjacketpage);
+         view.showComponents(paths.collectionsjacketpage);
         // view.showfield('Men');
         // view.showComponents('topspage')
     }
@@ -32,7 +32,7 @@ collectionsinterface.collectionpageHandler = function(){
     let shoes1 = document.getElementById('shoesField')
     shoes1.onclick = shoesHandler;
     function shoesHandler(){
-         view.showComponents(paths.collectionshoespage);
+         view.showComponents(paths.collectionsshoespage);
         // view.showfield('Men');
         // view.showComponents('topspage')
     }
